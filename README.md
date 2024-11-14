@@ -6,7 +6,7 @@ App for managing bank accounts and performing transactions
 
 ## Features
 - [x] Can be scaled horizontally
-- [x] Swagger documentation
+- [x] Swagger documentation (http://localhost:8080/api/swagger-ui/index.html)
 - [x] Test coverage reporting
 - [x] Validation
 
