@@ -26,7 +26,7 @@ Furthermore, we can add caching and pagination to the application to improve per
 ## Setting up :rocket:
 1. Clone the repository:
 ```
-git clone https://github.com/BibusUkraine/media-insights-app.git
+git clone https://github.com/DimaL-cloud/banking-app.git
 ```
 2. Up services:
 ```
