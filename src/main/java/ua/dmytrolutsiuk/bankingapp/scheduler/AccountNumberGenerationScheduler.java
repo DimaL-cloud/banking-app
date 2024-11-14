@@ -17,7 +17,7 @@ public class AccountNumberGenerationScheduler {
 
     private final AccountNumberService accountNumberService;
 
-    @Scheduled(fixedDelay = 30000)
+    @Scheduled(fixedDelay = 600000)
     @SchedulerLock(
             name = "AccountNumberGenerationScheduler_generateAccountNumbersPeriodically",
             lockAtMostFor = "PT5M"
